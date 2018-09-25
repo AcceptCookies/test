@@ -4,7 +4,7 @@ echo 'bla alalalalalala'; ?>
 =======
 <?php echo 'testik';
     echo 'cherryqwerqw';
-    echo 'testasdfajghfjsf';
+    echo 'testasdfajwerrweghfjsf';
 
     ?>
 >>>>>>> cb7a020... Prvy github commit
